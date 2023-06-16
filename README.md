@@ -1,5 +1,5 @@
-# colabproject
-repositório colab
+#colabproject
+#repositório colab
 O código apresentado sobre morfologia, começa com a importação de bibliotecas para seu desenvolvimento, estas são: 
 A biblioteca OpenCV, a qual é muito usada para processamento de imagens no caso deste código irá processa-las, para ser possível a sua manipulação e assim realizar a detecção de bordas da imagem.
 E a biblioteca numpy a qual é renomeda como "np" através do comando "as np". A qual  é uma biblioteca usada para computação numérica em Python, que será necessária para este código para a criação da matriz 5x5 preenchida com numeros uns. 
